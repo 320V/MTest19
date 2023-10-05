@@ -1,0 +1,15 @@
+{
+    "name": "MEB - Sayı Yerleştirme",
+    "short_name": "MEB - Sayı Yerleştirme",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#2A0173",
+    "theme_color": "#000",
+    "description": "Sayı Yerleştirme",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
